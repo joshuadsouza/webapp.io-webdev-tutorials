@@ -1,0 +1,14 @@
+.ProfileImage {
+    width: 200px;
+    height: 200px;
+}
+
+.Heading {
+    color: blue;
+    font-weight: bolder;
+}
+
+a {
+    color: red;
+    margin-right: 20px;
+}
